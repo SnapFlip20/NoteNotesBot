@@ -1,0 +1,2 @@
+# NoteNotesBot
+Discord Bot - 'NoteNotesBot'
